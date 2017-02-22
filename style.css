@@ -1,0 +1,26 @@
+body {
+	background-color: rgb(107, 68, 255);
+	font-size: 1.1em;
+}
+
+form {
+	text-align: center;
+	margin-top: 2em;
+}
+
+.form-row {
+	background-color: rgba(33, 148, 236, 0.5);
+	border-radius: 15px;
+	margin: 1em auto;
+	padding: 2em;
+	width: 30%;
+}
+
+input {
+	border-radius: 10px;
+	text-align: center;
+	height: 2em;
+	font-size: inherit;
+	text-decoration: none;
+
+}
